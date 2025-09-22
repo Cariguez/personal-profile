@@ -1,2 +1,2 @@
 # Personal Profile
-Graded lab activity: Personal profile webpage using HTML and CSS. Demonstrates semantic structure, navigation, lists, links, and images. 
+Graded lab activity: Personal profile webpage using HTML5 and CSS3. Involving structure, navigation, lists, links, and images. 
